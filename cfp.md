@@ -6,43 +6,51 @@ bodyClass: page-about
 ---
 
 ## Overview
-The first workshop on evaluating IR systems with Large Language Models (LLMs) is accepting submissions that describe original research findings, preliminary research results, proposals for new work, and recent relevant studies already published in high-quality venues. 
+Recent advancements in Large Language Models (LLMs) have significantly impacted evaluation methodologies in Information Retrieval (IR), reshaping the way relevance, quality, and user satisfaction are assessed. Initially demonstrating potential for query-document relevance judgments, LLMs are now being applied to more complex tasks, including relevance label generation, assessment of retrieval-augmented generation systems, and evaluation of the quality of text-generation systems. As IR systems evolve toward more sophisticated and personalized user experiences, integrating search, recommendations, and conversational interfaces, new evaluation methodologies become necessary.
+
+Building upon the success of our previous workshops, this third iteration of the LLM4Eval workshop at SIGIR '25 seeks submissions exploring new opportunities, limitations, and hybrid approaches involving LLM-based evaluations.
+
 <!-- The workshop will have both an in-person and virtual component, and submissions are welcome even for researchers who cannot attend in person, as they will present their work in the virtual component. -->
+## Important Dates
+- Paper submission deadline: April 23, 2025 (AoE)
+- Notification of acceptance: May 21, 2025 (AoE)
+- Workshop date: July 17, 2025
+
 
 ## Topics of interest
-We welcome both __full papers__ and __extended abstract__ submissions on the following topics, including but not limited to:
+We invite submissions on topics including, but not limited to:
 
-- LLM-based evaluation metrics for traditional IR and generative IR.
-- Agreement between human and LLM labels.
-- Effectiveness and/or efficiency of LLMs to produce robust relevance labels.
-- Investigating LLM-based relevance estimators for potential systemic biases.
-- Automated evaluation of text generation systems.
-- End-to-end evaluation of Retrieval Augmented Generation systems.
-- Trustworthiness in the world of LLMs evaluation.
-- Prompt engineering in LLMs evaluation.
-- Effectiveness and/or efficiency of LLMs as ranking models.
-- LLMs in specific IR tasks such as personalized search, conversational search, and multimodal retrieval.
-- Challenges and future directions in LLM-based IR evaluation.
+- LLMs for query-document relevance assessment
+- Evaluating conversational IR and recommendation systems with LLMs
+- Hybrid evaluation frameworks combining LLM and human annotations
+- Identifying failure modes and limitations of LLM annotations
+- Prompt engineering strategies for improving LLM annotation quality
+- Standardizing protocols for reliable LLM-based evaluations
+- Bias, fairness, and ethical considerations in LLM evaluations
+- LLM annotation robustness, reliability, and reproducibility
+- User-centric evaluations, personalization, and subjective assessments with LLMs
+- Case studies and lessons from industry applications of LLM-based evaluations
+
 
 ## Submission guidelines
-We welcome the following submissions:
+- Papers must follow SIGIR format and should not exceed 9 pages, excluding references.
+- We accept full papers (published or unpublished), position papers, and demo papers.
+- All papers will be peer-reviewed (double-blind) by the program committee and judged by their relevance to the workshop themes and potential to generate discussion.
+- Previously published studies can be submitted in their original format and will be reviewed solely for their relevance to this workshop.
+- All submissions must be in English (PDF format).
+- Submission through EasyChair: [https://easychair.org/conferences/?conf=llm4evalsigir25](https://easychair.org/conferences/?conf=llm4evalsigir25){:target="_blank"}.
 
-- __Previously unpublished manuscripts__ will be accepted as extended abstracts and full papers (any length between 1 - 9 pages) with unlimited references, formatted according to the latest ACM SIG proceedings template available at http://www.acm.org/publications/proceedings-template. 
-- __Published manuscripts__ can be submitted in their original format.
+## Publication options
 
-All submissions should be made through Easychair: [https://easychair.org/conferences/?conf=llm4evalwsdm25](https://easychair.org/conferences/?conf=llm4evalwsdm25){:target="_blank"}
+Authors can choose between archival and non-archival options for their submissions:
 
-All papers will be peer-reviewed (single-blind) by the program committee and judged by their relevance to the workshop, especially to the main themes identified above, and their potential to generate discussion. For already published studies, the paper can be submitted in the original format. These submissions will be reviewed for their relevance to this workshop. All submissions must be in English (PDF format).
+- Archival: Papers will be included in the workshop proceedings.
+- Non-archival: Papers may be uploaded to arXiv.org, allowing submission elsewhere as they will be considered non-archival. The workshop's website will maintain a link to the arXiv versions of the papers.
+  
+## Presentation
+- All accepted papers are expected to be presented in person. We anticipate that at least one author from each accepted paper will attend the workshop in person.
+- All accepted papers will have a booster session and a poster presentation.
 
-<!-- Please note the workshop will have an __in-person__ (to be held with SIGIR 2024) and __virtual__ component (to be held at a later date on SIGIR VF). During submission, the authors should select their preferred component. -->
-All accepted papers will have a poster presentation with a few selected for spotlight talks. Accepted papers may be uploaded to arXiv.org, allowing submission elsewhere as they will be considered non-archival. The workshop's website will maintain a link to the arXiv versions of the papers.
-
-## Important Dates
-- Submission Deadline: ~~January 20, 2025~~ __January 30, 2025__
-- Acceptance Notifications: ~~February 10, 2025~~ __February 20, 2025__
-- Workshop date: __March 14, 2025__
-
-(All time are in AoE time)
 
 ## Contact
 For any questions about paper submission, you may contact the workshop organizers at <llm4eval@easychair.org>
