@@ -8,7 +8,7 @@ bodyClass: page-about
 ## Overview
 Recent advancements in Large Language Models (LLMs) have significantly impacted evaluation methodologies in Information Retrieval (IR), reshaping the way relevance, quality, and user satisfaction are assessed. Initially demonstrating potential for query-document relevance judgments, LLMs are now being applied to more complex tasks, including relevance label generation, assessment of retrieval-augmented generation systems, and evaluation of the quality of text-generation systems. As IR systems evolve toward more sophisticated and personalized user experiences, integrating search, recommendations, and conversational interfaces, new evaluation methodologies become necessary.
 
-Building upon the success of our previous workshops, this third iteration of the LLM4Eval workshop at SIGIR '25 seeks submissions exploring new opportunities, limitations, and hybrid approaches involving LLM-based evaluations.
+Building upon the success of our previous workshops, this third iteration of the LLM4Eval workshop at SIGIR 2025 seeks submissions exploring new opportunities, limitations, and hybrid approaches involving LLM-based evaluations.
 
 <!-- The workshop will have both an in-person and virtual component, and submissions are welcome even for researchers who cannot attend in person, as they will present their work in the virtual component. -->
 ## Important Dates
