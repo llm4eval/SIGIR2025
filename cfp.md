@@ -61,7 +61,7 @@ We welcome **position papers**, **opinion pieces**, **short abstracts**, and **p
 - We accept:
   - **Research papers** (up to 9 pages, excluding references)  
   - **Position papers**, **opinion pieces**, and **demo papers**
-- Papers must follow the [SIGIR format](https://www.sigir.org/sigir2025/cfp/call_for_full_papers/)  
+- Papers must follow the [SIGIR format](https://sigir2025.dei.unipd.it/call-full-papers.html)  
 - All papers will undergo **double-blind peer review** and be judged based on relevance and potential to spark discussion  
 - Previously published papers can be submitted in their original format and will be evaluated solely for relevance  
 - All submissions must be in **English** and in **PDF format**  
