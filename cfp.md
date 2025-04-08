@@ -41,20 +41,25 @@ We invite submissions on topics including, but not limited to:
 As a core part of this year's workshop, we will host **three breakout sessions**, each focused on a **special theme** that we believe is fundamental to advancing research and practice in LLM-based evaluation. We especially encourage submissions that speak to one of the following themes:
 
 - **Using LLMs to Evaluate Different Output**  
-  We invite work that explores how LLMs can evaluate complex outputs beyond traditional query-document pairs—such as ranked lists, conversational turns, sessions, or full conversations. This theme excludes Cranfield-style qrel generation.
+<!-- - Contributions in this theme should focus on leveraging LLMs to evaluate sets or lists, conversational turns, sessions, or entire conversations. -->
+  We invite work that explores how LLMs can evaluate complex outputs beyond traditional query-document pairs, such as sets or ranked lists, conversational turns, sessions, or full conversations. This theme excludes Cranfield-style qrel generation.
 
 - **Using LLMs to Simulate People**  
   This theme focuses on using LLMs to simulate interactions, capture user context, or impersonate personas in the evaluation process. This may include modeling user behavior, simulating dialogue, or understanding how well LLMs can approximate human judgments.
+  <!-- Papers in this theme will explore how LLMs can be used to simulate interactions, represent a user's context, or impersonate characters when producing judgments. Contributions might include studies on using LLMs to model human behavior or simulate realistic dialogue. -->
 
 - **Synthesizing a Corpus**  
-  We encourage contributions that explore synthetic data generation to address data scarcity—especially in low-resource or privacy-sensitive contexts. This includes techniques and insights into corpus creation when collecting real-world data is difficult or expensive.
+  We encourage contributions that explore synthetic data generation to address data scarcity in IR evaluation, especially in low-resource or privacy-sensitive contexts. This includes techniques and insights into corpus creation when collecting real-world data is difficult or expensive.
+
+  <!-- This theme addresses solutions to the data gap, low-resource settings, and scenarios involving private data. It focuses on situations where collecting a real corpus is too expensive or challenging, and explores methods for synthesizing datasets for research.
+We invite authors to contribute position papers, opinion pieces, short abstracts, and both published and unpublished works that can stimulate discussion on these special themes. These papers will be presented during the workshop, and we will rely on them to identify key aspects of each special theme, which will fuel the discussions during the breakout sessions. -->
 
 We welcome **position papers**, **opinion pieces**, **short abstracts**, and **published or unpublished work** that can foster rich discussion within these themes. These contributions will be presented during the workshop and serve as the basis for the breakout discussions.
 
 ## Submission Guidelines
 
 - We accept:
-  - **Research papers** (2–9 pages, excluding references)  
+  - **Research papers** (up to 9 pages, excluding references)  
   - **Position papers**, **opinion pieces**, and **demo papers**
 - Papers must follow the [SIGIR format](https://www.sigir.org/sigir2025/cfp/call_for_full_papers/)  
 - All papers will undergo **double-blind peer review** and be judged based on relevance and potential to spark discussion  
@@ -68,7 +73,7 @@ All accepted papers will be **non-archival**. Authors are encouraged to upload t
 
 ## Presentation
 
-Details about presentation format (in-person, virtual, poster, etc.) will be **updated soon**. We aim to create an inclusive and engaging environment for sharing your work and fostering discussion.
+Details about presentation format will be **updated soon**. We aim to create an inclusive and engaging environment for sharing your work and fostering discussion.
 
 
 
@@ -111,4 +116,5 @@ Authors can choose between archival and non-archival options for their submissio
 
 
 ## Contact
-For any questions about paper submission, you may contact the workshop organizers at <llm4eval@easychair.org>
+For any questions about paper submission, please contact the organizers at:  
+📩 <llm4eval@easychair.org>
