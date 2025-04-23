@@ -16,8 +16,8 @@ Building upon the success of our previous workshops, this third iteration of the
 - Notification of acceptance: May 21, 2025 (AoE)
 - Workshop date: July 17, 2025 -->
 
-- **Paper submission deadline:** April 23, 2025 (AoE)  
-- **Notification of acceptance:** May 21, 2025 (AoE)  
+- **Paper submission deadline:** ~~April 23, 2025~~ **April 30, 2025 (AoE)**
+- **Notification of acceptance:** May 28, 2025 (AoE)  
 - **Workshop date:** July 17, 2025
 
 ## Topics of Interest
