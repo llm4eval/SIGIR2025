@@ -2,7 +2,7 @@
 title: "Clemencia Siro"
 date: 2018-12-20T13:44:30+10:00
 image: "images/team/clemencia.png"
-jobtitle: "University of Amsterdam"
+jobtitle: "Centrum Wiskunde & Informatica"
 linkedinurl: "https://www.linkedin.com/in/clemencia-siro/"
 promoted: false
 weight: 3
