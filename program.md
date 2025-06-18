@@ -5,7 +5,7 @@ description: Program
 bodyClass: page-about
 ---
 
-LLM4Eval will be colocated with SIGIR 2025 in Padua, Italy and takes place on July 17th, 2025. 
+The LLM4Eval workshop will be colocated with SIGIR 2025 in Padua, Italy and takes place on July 17th, 2025. 
 <!-- All times in the table below are according to the local time zone. -->
 
 
@@ -28,7 +28,7 @@ LLM4Eval will be colocated with SIGIR 2025 in Padua, Italy and takes place on Ju
 
 ## From Relevance to Reality: Scaling Human-Centered Evaluation in the LLM Era
 
-<img style="vertical-align:middle" width="100px" height="80px" src="../images/team/Chirag_Shah.jpg"/> __Chirag Shah__
+<img style="vertical-align:middle" width="100px" height="80px" src="../images/team/Chirag_Shah.jpg"/> __Chirag Shah__, University of Washington
 
 __Abstract.__ The widespread adoption of LLMs as evaluators represents a fundamental shift in how we assess information systems, but our current approaches remain rooted in ad-hoc prompt engineering rather than systematic scientific methodology. Drawing from our recent work on usefulness evaluation and Theory of Mind reasoning in LLMs, I'll demonstrate that while LLMs show remarkable capabilities as evaluators, their outputs demand the same level of scrutiny we apply to any scientific instrument. This trust requires three foundational advances. First, we must move beyond static evaluation paradigms toward dynamic benchmark generation that can evolve with rapidly advancing models. Second, we need systematic verification methods that can validate LLM judgments without falling into infinite recursive loops. Most critically, we must abandon prompt engineering's trial-and-error approach in favor of "prompt science"—a methodology that brings transparency, replicability, and rigor to evaluation tasks. The future of LLM-based evaluation lies not in more sophisticated prompts, but in more sophisticated science.
 
