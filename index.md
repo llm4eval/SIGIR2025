@@ -14,7 +14,7 @@ The Third Workshop on Large Language Models (LLMs) for Evaluation in Information
 
 ## 🚨 Important: Shared Slides for Report Discussion
 
-📢 **All participantss**: Please access and use the shared slides below during the discussion phase.
+📢 **All participants**: Please access and use the shared slides below during the discussion phase.
 
 👉 [🔗 Click here to open the Shared Slides](https://docs.google.com/presentation/d/1I_TZhHldpCc3gpq10xMpF6-4h361VOs_/edit?usp=sharing&ouid=114347624027966431426&rtpof=true&sd=true)
 
