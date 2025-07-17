@@ -14,13 +14,14 @@ The LLM4Eval workshop will be colocated with SIGIR 2025 in Padua, Italy and take
 |----------------|----------------------------------------|
 | 9:00 - 9:15    | Opening Remarks                        |
 | 9:15 - 10:00   | Keynote Talk: __Chirag Shah__                          |
-| 10:00 - 10:30  | *Coffee break + Poster Presentations*  |
-| 10:30 - 12:30  | Paper Presentations                    |
-| 12:30 - 14:00  | *Lunch break + Poster Presentations*   |
-| 14:00 - 15:30  | Breakout Discussion                    |
-| 15:30 - 16:00  | *Coffee break*                         |
-| 16:00 - 16:45  | Breakout Discussion Reports            |
-| 16:45 - 17:00  | Closing Remarks                        |
+| 10:00 - 10:30  | Paper Presentations Session 1           |
+| 10:30 - 11:00  | *Coffee break*  |
+| 11:00 - 12:30  | Paper Presentations Session 2                    |
+| 12:30 - 14:30  | *Lunch break + Poster Presentations*   |
+| 14:30 - 16:00  | Breakout Discussion                    |
+| 16:00 - 16:30  | *Coffee break*                         |
+| 16:30 - 17:15  | Breakout Discussion Reports            |
+| 17:15 - 17:30  | Closing Remarks                        |
 
 
 
